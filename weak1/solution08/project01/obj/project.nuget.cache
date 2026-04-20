@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hh5KyDizAJ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dreea\\OneDrive\\المستندات\\backend\\weak1\\solution08\\project01\\project01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dreea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\dreea\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\dreea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\dreea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
