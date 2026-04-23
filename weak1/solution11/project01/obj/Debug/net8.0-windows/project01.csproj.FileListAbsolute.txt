@@ -1,0 +1,17 @@
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\bin\Debug\net8.0-windows\project01.exe
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\bin\Debug\net8.0-windows\project01.deps.json
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\bin\Debug\net8.0-windows\project01.runtimeconfig.json
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\bin\Debug\net8.0-windows\project01.dll
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\bin\Debug\net8.0-windows\project01.pdb
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.Form1.resources
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.csproj.GenerateResource.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.AssemblyInfoInputs.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.AssemblyInfo.cs
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.csproj.CoreCompileInputs.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.sourcelink.json
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.dll
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\refint\project01.dll
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.pdb
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\project01.genruntimeconfig.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak1\solution11\project01\obj\Debug\net8.0-windows\ref\project01.dll
