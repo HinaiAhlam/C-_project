@@ -1,0 +1,10 @@
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\project02.csproj.AssemblyReference.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\solution05task.Form1.resources
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\project02.Properties.Resources.resources
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\project02.csproj.GenerateResource.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\project02.csproj.CoreCompileInputs.cache
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\bin\Debug\project02.exe.config
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\bin\Debug\project02.exe
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\bin\Debug\project02.pdb
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\project02.exe
+C:\Users\dreea\OneDrive\المستندات\backend\weak3\solution05task\project02\obj\Debug\project02.pdb
